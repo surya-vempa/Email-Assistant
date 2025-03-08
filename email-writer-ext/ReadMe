@@ -1,0 +1,42 @@
+# 📩 Email Writer Chrome Extension  
+
+## 🚀 Introduction  
+The **Email Writer Chrome Extension** is a productivity tool designed to help users quickly draft emails using AI-powered suggestions. This extension integrates with Gmail and other email platforms, making email composition faster and more efficient.
+
+## 🛠 Installation  
+
+Follow these steps to install the extension in Google Chrome:  
+
+1. **Clone the repository** (or download it as a ZIP and extract it):  
+   ```bash
+   git clone https://github.com/surya-vempa/Email-Assistant.git
+2. Open Chrome and go to Extensions:
+
+3. Type chrome://extensions/ in the address bar and press Enter.
+Enable Developer Mode:
+
+4. Toggle the Developer Mode switch in the top-right corner.
+Load the Unpacked Extension:
+
+5. Click Load Unpacked and select the email-writer-ext folder from the cloned repository.
+  The extension will now be installed and available in your browser toolbar.
+
+📌 Usage
+1️⃣ Open the Extension
+Click on the Email Writer Extension icon in the Chrome toolbar.
+A popup will appear with options for composing an email.
+2️⃣ Compose an Email
+Enter the subject and a brief outline of your email.
+Click Generate Email to get AI-powered email suggestions.
+3️⃣ Insert the Email in Gmail
+If you are on Gmail, you can directly insert the generated email into the compose window.
+Otherwise, copy and paste the email into your preferred email client.
+4️⃣ Customize and Send
+Modify the email if necessary.
+Click Send when you’re satisfied with the content.
+🔧 Troubleshooting
+If the extension does not load or work properly:
+
+Ensure Developer Mode is enabled in Chrome.
+Check for console errors in chrome://extensions/.
+Try reloading the extension by disabling and enabling it again.
